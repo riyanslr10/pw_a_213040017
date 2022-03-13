@@ -35,5 +35,7 @@ echo "<br>";
 echo ceil(2.1); // keatas
 echo "<br>";
 echo floor(2.9); // kebawah
+echo "<hr>";
+
 
 ?>

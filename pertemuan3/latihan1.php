@@ -1,5 +1,6 @@
 <?php
 // Pengulangan
+// For
 // while
 // do.. while
 // foreach : pengulangan khusus array
@@ -66,7 +67,7 @@ echo "<hr>"
                     <?php endfor; ?>
             </tr>
         <?php endfor; ?>
-</table>
+    </table>
             <?php echo "<hr>" ?>
     <!-- Membuat table menggunakan sintaks templatin dan memberi warna pada bilangan ganjil -->
     <table border="1" cellpadding="10" cellspacing="0">
